@@ -6,3 +6,12 @@ Architecture Center provides reference architecture diagrams, Architecture Solut
   ### Retail<br>
   ### Financial Services<br>
   ### Life Sciences<br>
+
+
+## Well-Architected Pillars<br>
+  ### Operational Excellence<br>
+  ### Security<br>
+  ### Reliability<br>
+  ### Performance Efficiency<br>
+  ### Cost Optimization<br>
+  ### Sustainability<br>
